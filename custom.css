@@ -1,0 +1,30 @@
+/* Replace Hacker green with academic blue */
+
+/* Links */
+a {
+  color: #60a5fa; /* muted blue */
+}
+
+a:hover {
+  color: #93c5fd;
+}
+
+/* Headers */
+h1, h2, h3, h4 {
+  color: #bfdbfe;
+}
+
+/* Code blocks / inline code */
+code, pre {
+  color: #93c5fd;
+}
+
+/* Horizontal rules and accents */
+hr {
+  border-color: #3b82f6;
+}
+
+/* Emphasis */
+strong {
+  color: #e0f2fe;
+}
