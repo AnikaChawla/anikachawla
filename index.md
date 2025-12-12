@@ -1,69 +1,93 @@
 ---
 layout: default
-title: Research Portfolio
+title: Anika Chawla
 ---
 
-# Your Name
+<div style="text-align:center;">
+  <img src="assets/earth.png"
+       style="width:100%;
+              max-height:260px;
+              object-fit:cover;
+              opacity:0.8;">
+</div>
 
-I am a researcher focused on uncertainty-aware, decision-centric modeling for complex environmental and infrastructure systems. My work examines how uncertainty, model discrepancy, and data limitations shape operational and policy decisions, with the goal of developing methods that make complex models more usable, credible, and decision-relevant.
+# Anika Chawla
 
-My research interests sit at the intersection of uncertainty quantification, sequential decision-making, and climate-relevant systems, with an emphasis on translating technical modeling results into actionable guidance under real-world constraints.
+*Uncertainty-aware modeling and decision-making for climate-relevant systems*
+
+I am a researcher focused on developing uncertainty-aware, decision-centric modeling frameworks for complex environmental and infrastructure systems. My work examines how uncertainty, model discrepancy, and data limitations shape operational and policy decisions, with the goal of making technical models more credible, interpretable, and actionable in real-world contexts.
+
+My interests lie at the intersection of uncertainty quantification, sequential decision-making, and climate-relevant systems, with an emphasis on translating modeling results into decisions under institutional, operational, and computational constraints.
 
 ---
 
 ## Research (Core Focus)
 
-### Uncertainty-Aware Decision Support for Environmental Systems  
-**Focus:** Uncertainty quantification, surrogate modeling, and decision relevance  
-**Methods:** Bayesian inference, probabilistic surrogates, sensitivity analysis, sequential decision frameworks  
+### Operational Contrail Mitigation under Uncertainty  
+**Context**  
+Operational aviation decisions with potentially large climate consequences must be made under deep atmospheric and model uncertainty.
 
-My research centers on developing modeling and decision-support frameworks that explicitly represent uncertainty and model discrepancy, rather than treating them as secondary outputs. I am particularly interested in how uncertainty propagates through modeling pipelines and affects which actions are considered justified or feasible in practice.
+**Methods**  
+Probabilistic modeling, surrogate models, sensitivity analysis, sequential decision frameworks.
 
-#### Operational Contrail Mitigation (Representative Test Case)  
-*Role:* Research lead  
-*Context:* Climate-relevant operational decision-making under uncertainty  
+**Contributions**
+- Developed uncertainty-aware models to evaluate contrail-avoidance strategies under imperfect atmospheric information  
+- Analyzed when predicted climate benefits were decision-relevant versus dominated by uncertainty  
+- Framed contrail mitigation as a sequential decision problem constrained by operational feasibility  
 
-- Developed probabilistic modeling approaches to evaluate contrail-avoidance decisions under uncertain atmospheric inputs and imperfect physical models  
-- Analyzed when predicted climate benefits are decision-relevant versus dominated by uncertainty  
-- Framed contrail mitigation as a representative environmental decision problem involving uncertainty, feasibility constraints, and sequential choices  
+*Key takeaway:* Climate mitigation decisions depend as much on uncertainty structure and feasibility as on predicted impact.
 
-*Key takeaway:* Even when technical mitigation options exist, uncertainty and operational constraints strongly influence whether actions are credible and actionable.
+---
 
-#### FAA CLEEN ASCENT — Technology Adoption & Climate Impact  
-*Role:* Research assistant  
-*Context:* Fleet-level emissions modeling under adoption uncertainty  
+### FAA CLEEN ASCENT — Technology Adoption and Climate Impact  
+**Context**  
+Fleet-level emissions outcomes depend on both technological performance and real-world adoption dynamics.
 
-- Examined how assumptions about technology adoption and policy scenarios shape fleet-level climate outcomes  
-- Evaluated sensitivity of emissions conclusions to modeling and economic assumptions  
-- Highlighted the role of adoption uncertainty in translating technological advances into real climate impact  
+**Methods**  
+Scenario analysis, sensitivity studies, systems-level modeling.
+
+**Contributions**
+- Evaluated how assumptions about technology adoption and policy scenarios influence fleet-level climate outcomes  
+- Assessed sensitivity of emissions conclusions to modeling, economic, and adoption assumptions  
+- Highlighted gaps between technological potential and realized societal impact  
+
+*Key takeaway:* Adoption uncertainty plays a central role in translating engineering advances into climate benefit.
 
 ---
 
 ## Selected Collaborative Projects
 
-### Senior Design Project — Systems-Level Design Under Constraints  
-*Role:* Systems analysis lead  
-*Focus:* Trade studies, feasibility, and decision-making under constraints  
+### Senior Design Project — Systems-Level Design under Constraints  
+**Context**  
+Capstone design project requiring integration of performance, cost, feasibility, and stakeholder constraints.
 
-- Led system-level trade studies evaluating competing architectures under performance, cost, and feasibility constraints  
+**Methods**  
+Systems modeling, trade studies, sensitivity analysis.
+
+**Contributions**
+- Led system-level trade studies across competing architectures under multiple constraints  
 - Integrated subsystem analyses into a coherent decision framework to support final design selection  
-- Assessed sensitivity of design outcomes to key assumptions and uncertainties  
+- Evaluated how key assumptions and uncertainties influenced design outcomes  
 
-*Key takeaway:* Real-world feasibility, uncertainty, and stakeholder constraints often determine outcomes more than technical optimality.
+*Key takeaway:* Feasibility, uncertainty, and stakeholder constraints often determine outcomes more than technical optimality.
 
-![Senior Design Board](assets/senior_design_board.png)
+![Senior Design Board](assets/capstone.png)
 
 ---
 
-### Machine Learning for Inland Water Quality Monitoring (Course Project)  
-*Focus:* Data-driven environmental modeling under limited ground truth  
-*Dataset:* AquaSat (satellite reflectance + in situ measurements)
+### Machine Learning for Inland Water Quality Monitoring (Collaborative Course Project)  
+**Context**  
+Environmental monitoring using satellite data is limited by sparse ground truth and model uncertainty.
 
-- Conducted model comparisons across linear, tree-based, and neural approaches  
-- Identified limits of linear models and gains from nonlinear methods  
-- Examined interpretability and uncertainty challenges when using ML outputs for environmental decisions  
+**Methods**  
+Linear regression, random forests, gradient-boosted trees, neural networks, feature selection.
 
-*Key takeaway:* Predictive performance alone is insufficient; uncertainty and interpretability remain central for decision support.
+**Contributions**
+- Conducted comparative analysis of linear, tree-based, and neural models using the AquaSat dataset  
+- Identified strong nonlinear structure and limitations of linear approaches  
+- Examined implications of model choice, uncertainty, and interpretability for decision-relevant use of ML  
+
+*Key takeaway:* Predictive performance gains must be balanced with uncertainty awareness and interpretability in environmental decision support.
 
 ---
 
@@ -73,8 +97,8 @@ My research centers on developing modeling and decision-support frameworks that 
 - Uncertainty quantification and model discrepancy  
 - Decision-making under imperfect information  
 - Surrogate modeling for complex systems  
-- Explainable and decision-centric ML  
-- Climate-relevant infrastructure and environmental systems  
+- Explainable, decision-centric machine learning  
+- Climate-relevant environmental and infrastructure systems  
 
 **Technical Skills**
 - Modeling & Inference: Bayesian methods, probabilistic surrogates, sensitivity analysis  
@@ -85,5 +109,3 @@ My research centers on developing modeling and decision-support frameworks that 
 
 ## Contact
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: (optional)
