@@ -71,7 +71,7 @@ Systems modeling, trade studies, sensitivity analysis.
 
 *Key takeaway:* Feasibility, uncertainty, and stakeholder constraints often determine outcomes more than technical optimality.
 
-![Senior Design Board](assets/capstone.png)
+![Senior Design Board](capstone.jpg)
 
 ---
 
