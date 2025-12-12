@@ -2,9 +2,36 @@
 layout: default
 title: Anika Chawla
 ---
+<style>
+/* Blue academic palette override for Hacker theme */
+
+body {
+  color: #dbeafe;
+}
+
+a {
+  color: #60a5fa;
+}
+
+a:hover {
+  color: #93c5fd;
+}
+
+h1, h2, h3, h4 {
+  color: #bfdbfe;
+}
+
+hr {
+  border-color: #3b82f6;
+}
+
+strong {
+  color: #e0f2fe;
+}
+</style>
 
 <div style="text-align:center;">
-  <img src="assets/earth.png"
+  <img src="earth.png"
        style="width:100%;
               max-height:260px;
               object-fit:cover;
