@@ -5,7 +5,7 @@ title: Anika Chawla
 
 
 <div style="text-align:center;">
-  <img src="earth.png"
+  <img src="earth.jpg"
        style="width:100%;
               max-height:260px;
               object-fit:cover;
