@@ -4,13 +4,20 @@ title: Anika Chawla
 ---
 
 <style>
-body {
-  color: #e6e6e6;   /* light gray instead of green */
+
+body, body * {
+  color: #e6e6e6 !important;
 }
-a {
-  color: #9ecbff;   /* soft blue links */
+
+a, a:visited {
+  color: #9ecbff !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
 }
 </style>
+
 
 <img src="earth.jpg" alt="Earth" style="width:100%; height:260px; object-fit:cover; margin-bottom:1.5rem;">
 
