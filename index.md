@@ -1,3 +1,12 @@
+<style>
+body {
+  color: #e6e6e6;   /* light gray instead of green */
+}
+a {
+  color: #9ecbff;   /* soft blue links */
+}
+</style>
+
 <img src="earth.jpg" alt="Earth" style="width:100%; height:260px; object-fit:cover; margin-bottom:1.5rem;">
 
 
