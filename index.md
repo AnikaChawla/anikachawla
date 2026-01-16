@@ -1,4 +1,5 @@
-![Earth](earth.jpg)
+<img src="earth.jpg" alt="Earth" style="width:100%; height:260px; object-fit:cover; margin-bottom:1.5rem;">
+
 
 # Anika Chawla
 
