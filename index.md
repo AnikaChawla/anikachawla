@@ -1,10 +1,10 @@
----
+rt---
 layout: default
 title: Anika Chawla
 ---
 
 
-![earth.jpg)
+![Earth](earth.jpg)
 
 # Anika Chawla
 
