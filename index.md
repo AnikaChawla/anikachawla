@@ -1,3 +1,8 @@
+---
+layout: default
+title: Anika Chawla
+---
+
 <style>
 body {
   color: #e6e6e6;   /* light gray instead of green */
