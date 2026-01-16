@@ -5,15 +5,15 @@ layout: default
 <style>
 
 body, body * {
-  color: #e6e6e6 !important;
+  color: #98DFFA !important;
 }
 
 a, a:visited {
-  color: #9ecbff !important;
+  color: #98DFFA !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #ffffff !important;
+  color: #98DFFA !important;
 }
 </style>
 
