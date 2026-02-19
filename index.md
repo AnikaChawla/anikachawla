@@ -126,8 +126,7 @@ Linear regression, random forests, gradient-boosted trees, neural networks, feat
 
 ---
 
-
-My CV: <a href="chawla_anika_emily_mit.pdf" target="_blank">here</a> :)
+CV <a href="chawla_anika_emily_mit.pdf" target="_blank">here</a> :)
 
 ## Contact
 Linkedin: linkedin.com/in/anika-chawla/
