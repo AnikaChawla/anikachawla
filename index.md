@@ -131,6 +131,8 @@ My CV: <a href="chawla_anika_emily_mit.pdf" target="_blank">here</a> :)
 
 ## Contact
 Linkedin: linkedin.com/in/anika-chawla/
+
+
 Email: anikachawla [at] gatech [dot] edu
 
 
