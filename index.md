@@ -77,7 +77,7 @@ Systems modeling, trade studies, sensitivity analysis
 - Integrated subsystem analyses into a coherent decision framework to support final design selection  
 - Evaluated how key assumptions and uncertainties influenced design outcomes  
 
-*Key takeaway:* Feasibility, uncertainty, and stakeholder constraints often determine outcomes more than technical optimality.
+*Key takeaway:* Feasibility, uncertainty, and stakeholder are key constraints in additional to technical optimality.
 
 ![Senior Design Board](capstone.jpg)
 
@@ -113,6 +113,7 @@ Linear regression, random forests, gradient-boosted trees, neural networks, feat
 - Decision Frameworks: Sequential decision-making, scenario evaluation  
 - Tools: Python, NumPy, Pandas, Scikit-learn, XGBoost, PyTorch  
 
+---
 
 ## Internship Experience
 **Pratt & Whitney: Aerothermal Fluids Intern - Systems Optimization (Advanced Concepts & Technology)**
@@ -125,8 +126,8 @@ Linear regression, random forests, gradient-boosted trees, neural networks, feat
 
 ---
 
-## CV
-<a href="chawla_anika_emily_mit.pdf" target="_blank">CV</a>
+
+My CV: <a href="chawla_anika_emily_mit.pdf" target="_blank">here</a> :)
 
 ## Contact
 Linkedin: linkedin.com/in/anika-chawla/
