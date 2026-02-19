@@ -113,7 +113,23 @@ Linear regression, random forests, gradient-boosted trees, neural networks, feat
 - Decision Frameworks: Sequential decision-making, scenario evaluation  
 - Tools: Python, NumPy, Pandas, Scikit-learn, XGBoost, PyTorch  
 
+
+## Internship Experience
+**Pratt & Whitney: Aerothermal Fluids Intern - Systems Optimization (Advanced Concepts & Technology)**
+- Technoeconomic analysis on LH2 vs SAF pathways to inform future technology development
+- Development of XAI tool to determine which design decisions improve engine performance for HySIITE (Hydrogen Steam Injected, Inter‐Cooled Turbine Engine) from a large dataset of engine configurations and performance metrics
+
+**MITRE: Modeling and Simulation Intern (Cross-Cutting Urgent Innovation Cell)**
+- Developed routing algorithms for maritime environments under uncertainty using Dijkstra’s algorithm, Monte Carlo Tree Search, and genetic algorithms
+- Modeled satellite orbit propagation and SAR/EOIR sensor projections to assess Low Earth Orbit coverage and observability constraints
+
 ---
 
+## CV
+<a href="Chawla_Anika_CV.pdf" target="_blank">CV</a>
+
 ## Contact
-Linkedin
+Linkedin: linkedin.com/in/anika-chawla/
+Email: anikachawla [at] gatech [dot] edu
+
+
