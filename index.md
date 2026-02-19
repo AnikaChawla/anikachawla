@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 
 I am a researcher focused on developing uncertainty-aware, decision-centric modeling frameworks for complex environmental and infrastructure systems. My work examines how uncertainty, model discrepancy, and data limitations shape operational and policy decisions, with the goal of making technical models more credible, interpretable, and actionable in real-world contexts.
 
-My interests lie at the intersection of uncertainty quantification, sequential decision-making, and climate-relevant systems, with an emphasis on translating modeling results into decisions under institutional, operational, and computational constraints.
+My interests are at the intersection of uncertainty quantification, sequential decision-making, and climate-relevant systems, with an emphasis on translating modeling results into decisions under institutional, operational, and computational constraints.
 
 ---
 
@@ -127,6 +127,12 @@ Linear regression, random forests, gradient-boosted trees, neural networks, feat
 ---
 
 CV <a href="chawla_anika_emily_mit.pdf" target="_blank">here</a> :)
+## About Me
+Hi :) 
+My name is Anika and I am passionate about sustainability! I believe in little changes: a little less food waste, one more plant-based based meal this week, and bringing a reuseable bag to the grocery store adds up, and being aware of the current climate issues is the first step in that direction towards mindfulness. My favorite youtube channel to learn more is <a href="https://www.youtube.com/watch?v=D5Eny7VN7To" target="_blank">
+Understanding Climate with Professor Monks</a>, I highly recommend learning about climate models from a cat =^.^= (Professor Monks). 
+
+My mentor once told me that as an engineer, you can have the same impact as thousands of people combined in terms of the environment, if you make planes a little more efficient, cars a little safer, etc. I hope to make that impact on my path through contrail mitigation research. I am attaching my proposal <a href="mit_idss_proposal.pdf" target="_blank">here</a> :) if you are interested - I am still in the process of learning more about aerosols and the atmosphere. Please feel free to contact me to discuss!
 
 ## Contact
 Linkedin: linkedin.com/in/anika-chawla/
