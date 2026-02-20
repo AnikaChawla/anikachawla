@@ -27,6 +27,8 @@ I am a researcher focused on developing uncertainty-aware, decision-centric mode
 
 My interests are at the intersection of uncertainty quantification, sequential decision-making, and climate-relevant systems, with an emphasis on translating modeling results into decisions under institutional, operational, and computational constraints.
 
+I am currently pursuing my Master's at Georgia Tech in Aerospace Engineering - I am conducting research on the FAA CLEEN (Continuous Lower Energy, Emissions and Noise) project.
+
 ---
 
 ## Research
