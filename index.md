@@ -21,127 +21,166 @@ h1, h2, h3, h4, h5, h6 {
 <img src="earth.jpg" alt="Earth" style="width:100%; height:260px; object-fit:cover; margin-bottom:1.5rem;">
 
 
-*Uncertainty-aware modeling and decision-making for climate-relevant systems*
+*Modeling, simulation, and AI for aerospace, environmental, and climate-relevant systems*
 
-I am a researcher focused on developing uncertainty-aware, decision-centric modeling frameworks for complex environmental and infrastructure systems. My work examines how uncertainty, model discrepancy, and data limitations shape operational and policy decisions, with the goal of making technical models more credible, interpretable, and actionable in real-world contexts.
+I am an M.S. student in Aerospace Engineering at Georgia Tech working at the intersection of **modeling, simulation, and machine learning for complex aerospace and environmental systems**.
 
-My interests are at the intersection of uncertainty quantification, sequential decision-making, and climate-relevant systems, with an emphasis on translating modeling results into decisions under institutional, operational, and computational constraints.
+My work focuses on building **computational models, algorithms, and analysis tools** that help engineers understand system behavior and make decisions under uncertainty. I am  interested in applications involving **space systems, remote sensing, environmental monitoring, and sustainable aviation**.
 
-I am currently pursuing my Master's at Georgia Tech in Aerospace Engineering - I am conducting research on the FAA CLEEN (Continuous Lower Energy, Emissions and Noise) project.
+Much of my work involves developing **data-driven and physics-informed models**, implementing **machine learning methods**, and applying **explainability techniques** to ensure that model outputs are interpretable and trustworthy. This is increasingly important in aerospace and environmental applications where models inform operational, regulatory, or safety-critical decisions.
+
+I am currently pursuing my Master's at Georgia Tech in Aerospace Engineering and conducting research in the Aerospace Systems Design Laboratory on the **FAA CLEEN (Continuous Lower Energy, Emissions and Noise) ASCENT project**.
 
 ---
 
-## Research
+## Selected Work
 
-### Operational Contrail Mitigation under Uncertainty - Independent
+### Operational Contrail Mitigation under Uncertainty — Independent
 **Context**  
-Operational aviation decisions with potentially large climate consequences must be made under deep atmospheric and model uncertainty.
+Small operational aviation decisions can have large climate consequences, but must be made with incomplete atmospheric information and imperfect models.
 
 **Methods**  
 Probabilistic modeling, surrogate models, sensitivity analysis, sequential decision frameworks
 
-**Contributions**
-- Developed uncertainty-aware models to evaluate contrail-avoidance strategies under imperfect atmospheric information  
-- Analyzed when predicted climate benefits were decision-relevant versus dominated by uncertainty  
-- Framed contrail mitigation as a sequential decision problem constrained by operational feasibility  
+**Work**
+- Developed computational models to evaluate contrail mitigation strategies under uncertain atmospheric conditions  
+- Built surrogate models to approximate computationally expensive atmospheric simulations  
+- Analyzed when predicted climate benefits are robust versus dominated by uncertainty  
+- Framed contrail mitigation as an operational decision problem constrained by feasibility and uncertainty  
 
-*Key takeaway:* Climate mitigation decisions depend as much on uncertainty structure and feasibility as on predicted impact.
+*Key takeaway:* Climate mitigation decisions depend on uncertainty structure and operational feasibility in addition to predicted impact.
 
 ---
 
 ### FAA CLEEN ASCENT — Aerospace Systems Design Lab @ Georgia Tech
 **Context**  
-Assessment of long-term environmental impacts of advanced propulsion technologies requires coupling engine performance modeling with fleet-level deployment scenarios.
+Evaluating the environmental impact of future aviation technologies requires linking propulsion models, aircraft performance models, and fleet adoption scenarios.
 
 **Methods**  
-Engine cycle analysis, system-level performance modeling, fleet scenario modeling, Python-based analysis
+Engine cycle modeling, aircraft performance modeling, fleet simulation, Python analysis
 
-**Contributions**
-- Performed engine cycle and system-level analyses using EDS and FLOPS to quantify fuel burn, noise, and emissions across candidate propulsion architectures
-- Developed Python-based post-processing to aggregate engine and aircraft performance results for fleet-level evaluation
-- Implemented fleet scenario models incorporating aircraft turnover rates and technology integration timelines to project emissions outcomes over time
+**Work**
+- Conduct engine cycle and aircraft performance analysis using **EDS and FLOPS** to evaluate fuel burn, emissions, and noise impacts of propulsion architectures  
+- Developed Python analysis tools to process simulation outputs and evaluate large propulsion technology trade spaces  
+- Implemented fleet scenario models incorporating aircraft turnover and technology adoption timelines  
+- Evaluated long-term environmental outcomes across multiple propulsion and policy scenarios
 
-*Key takeaway:* Fleet-level environmental assessments are driven by how engine performance models are propagated through aircraft and fleet representations.
+*Key takeaway:* Environmental outcomes depend strongly on how propulsion technologies propagate through aircraft performance and fleet adoption dynamics.
 
 ---
 
 ## Selected Collaborative Projects
 
-### Senior Design Project — Systems-Level Design under Constraints  
+### Explainable AI for Predictive Maintenance — Airbus Grand Challenge
 **Context**  
-Capstone design project requiring integration of performance, cost, feasibility, and stakeholder constraints.
+Predictive maintenance models generate alerts without explanations, limiting operational trust and traceable reasoning.
 
 **Methods**  
-Systems modeling, trade studies, sensitivity analysis
+Deep learning, time-series modeling, explainable AI (SHAP, LIME, Integrated Gradients)
 
-**Contributions**
-- Led system-level trade studies across competing architectures under multiple constraints  
-- Integrated subsystem analyses into a coherent decision framework to support final design selection  
-- Evaluated how key assumptions and uncertainties influenced design outcomes  
+**Work**
+- Developed an explainability layer for predictive maintenance alerts using C-MAPSS and Hawk T1A turbofan datasets  
+- Applied multiple explainability methods to identify which sensor signals drive Remaining Useful Life predictions  
+- Translated model outputs into interpretable degradation indicators relevant to maintenance decision-making  
 
-*Key takeaway:* Feasibility, uncertainty, and stakeholder are key constraints in additional to technical optimality.
+*Key takeaway:* Explainability helps connect machine learning predictions to engineering insight.
+
+---
+
+### Satellite-Based Inland Water Quality Monitoring
+**Context**  
+Satellite datasets provide large-scale environmental observations but are limited by sparse ground truth.
+
+**Methods**  
+Machine learning, feature selection, remote sensing datasets
+
+**Work**
+- Evaluated linear models, random forests, gradient-boosted trees, and neural networks using the AquaSat dataset  
+- Identified nonlinear relationships between spectral signals and water quality indicators  
+- Examined the tradeoff between predictive accuracy and model interpretability for environmental monitoring
+
+*Key takeaway:* Model choice affects how satellite-derived predictions can be used for environmental decision support.
+
+---
+
+### Systems Engineering Capstone — Mars Mission Architecture
+**Context**  
+Capstone design project requiring system-level integration of propulsion, communications, trajectory, and mission constraints.
+
+**Methods**  
+Systems engineering, architecture modeling, trade studies
+
+**Work**
+- Led systems engineering activities including requirements development, interface definition, and verification logic  
+- Integrated subsystem analyses into a mission-level architecture including mass, power, and performance budgets  
+- Conducted trade studies evaluating architecture sensitivity to key design assumptions  
+
+*Key takeaway:* Many aerospace design decisions depend on how subsystem analyses propagate to system-level constraints.
 
 ![Senior Design Board](capstone.jpg)
 
 ---
 
-### Machine Learning for Inland Water Quality Monitoring (Collaborative Course Project)  
-**Context**  
-Environmental monitoring using satellite data is limited by sparse ground truth and model uncertainty.
+## Technical Skills
 
-**Methods**  
-Linear regression, random forests, gradient-boosted trees, neural networks, feature selection
+**Programming**
+- Python, C, Java, Git
 
-**Contributions**
-- Conducted comparative analysis of linear, tree-based, and neural models using the AquaSat dataset  
-- Identified strong nonlinear structure and limitations of linear approaches  
-- Examined implications of model choice, uncertainty, and interpretability for decision-relevant use of ML  
+**Modeling & Simulation**
+- MATLAB, NPSS, EDS, FLOPS, AFSIM  
+- System-level modeling, trade studies, scenario analysis
 
-*Key takeaway:* Predictive performance gains must be balanced with uncertainty awareness and interpretability in environmental decision support.
+**Machine Learning & AI**
+- PyTorch, Scikit-learn, XGBoost  
+- Explainable AI (SHAP, LIME, Integrated Gradients)  
+- Time-series modeling and predictive analytics
 
----
-
-## Interests & Skills
-
-**Research Interests**
-- Uncertainty quantification and model discrepancy  
-- Decision-making under imperfect information  
-- Surrogate modeling for complex systems  
-- Explainable, decision-centric machine learning  
-- Climate-relevant environmental and infrastructure systems  
-
-**Technical Skills**
-- Modeling & Inference: Bayesian methods, probabilistic surrogates, sensitivity analysis  
-- Decision Frameworks: Sequential decision-making, scenario evaluation  
-- Tools: Python, NumPy, Pandas, Scikit-learn, XGBoost, PyTorch  
+**Technical Areas**
+- Aerospace systems modeling  
+- Satellite and remote sensing analysis  
+- Environmental and climate modeling  
+- Uncertainty-aware modeling and decision analysis
 
 ---
 
-## Internship Experience
-**Pratt & Whitney: Aerothermal Fluids Intern - Systems Optimization (Advanced Concepts & Technology)**
-- Technoeconomic analysis on LH2 vs SAF pathways to inform future technology development
-- Development of XAI tool to determine which design decisions improve engine performance for HySIITE (Hydrogen Steam Injected, Inter‐Cooled Turbine Engine) from a large dataset of engine configurations and performance metrics
+## Experience
 
-**MITRE: Modeling and Simulation Intern (Cross-Cutting Urgent Innovation Cell)**
-- Developed routing algorithms for maritime environments under uncertainty using Dijkstra’s algorithm, Monte Carlo Tree Search, and genetic algorithms
-- Modeled satellite orbit propagation and SAR/EOIR sensor projections to assess Low Earth Orbit coverage and observability constraints
+**Pratt & Whitney — AeroThermal Fluids Intern (Advanced Concepts & Technology)**
+- Developed machine-learning analysis tools to identify trends and sensitivities in large engine architecture datasets  
+- Applied XGBoost, clustering methods, and explainable AI techniques to analyze high-dimensional propulsion design spaces  
+- Conducted technoeconomic analysis comparing hydrogen and sustainable aviation fuel pathways for future propulsion systems
+
+**MITRE — Modeling and Simulation Intern (Cross-Cutting Urgent Innovation Cell)**
+- Developed routing algorithms under uncertainty using Dijkstra’s algorithm, Monte Carlo Tree Search, and genetic algorithms  
+- Modeled satellite orbit propagation and SAR/EOIR sensor geometry to evaluate Low Earth Orbit coverage and observability  
+- Validated algorithm outputs against physics-based AFSIM simulations
 
 ---
 
 ## About Me
-Hi :) 
-My name is Anika and I am passionate about sustainability! I believe in little changes: a little less food waste, one more plant-based based meal this week, and bringing a reuseable bag to the grocery store adds up, and being aware of the current climate issues is the first step in that direction towards mindfulness. My favorite youtube channel to learn more is <a href="https://www.youtube.com/watch?v=D5Eny7VN7To" target="_blank">
-Understanding Climate with Professor Monks</a>, I highly recommend learning about climate models from a cat =^.^= (Professor Monks). 
-My mentor once told me that as an engineer, you can have the same positive impact as thousands of people combined in terms of the environment, if you make planes a little more efficient, climate models a little better, etc. I hope to make that impact on my path through contrail mitigation research. I am attaching my proposal <a href="mit_idss_proposal.pdf" target="_blank">here</a> :) if you are interested - I am still in the process of learning more about aerosols and the atmosphere. Please feel free to contact me to discuss!
+Hi :)
+
+My name is Anika and I am passionate about sustainability and the role engineering can play in improving large-scale systems.
+
+My mentor once told me that as an engineer, you can have the same positive environmental impact as thousands of people combined if you make aircraft a little more efficient, improve models that inform climate decisions, or design better monitoring systems.
+
+That idea stuck with me.
+
+I am particularly interested in work that combines **engineering, computation, and environmental impact** — whether that is improving aircraft efficiency, developing satellite-based environmental monitoring tools, or building models that help organizations make better decisions about complex systems.
+
+My favorite youtube channel to learn more is  
+<a href="https://www.youtube.com/watch?v=D5Eny7VN7To" target="_blank">
+Understanding Climate with Professor Monks
+</a>, I highly recommend learning about climate models from a cat =^.^= (Professor Monks).
 
 ---
 
-## CV <a href="chawla_anika_emily_mit.pdf" target="_blank">here</a> :)
+## Resume
+<a href="chawla_anika_emily_resume.pdf" target="_blank">View Resume</a> :contentReference[oaicite:0]{index=0}
+
+---
 
 ## Contact
-Linkedin: linkedin.com/in/anika-chawla/
-
+LinkedIn: linkedin.com/in/anika-chawla/
 
 Email: anikachawla [at] gatech [dot] edu
-
-
