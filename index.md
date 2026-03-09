@@ -162,11 +162,9 @@ Hi :)
 
 My name is Anika and I am passionate about sustainability and the role engineering can play in improving large-scale systems.
 
-My mentor once told me that as an engineer, you can have the same positive environmental impact as thousands of people combined if you make aircraft a little more efficient, improve models that inform climate decisions, or design better monitoring systems.
+My mentor once told me that as an engineer, you can have the same positive environmental impact as thousands of people combined if you make aircraft a little more efficient, improve models that inform climate decisions, or design better monitoring systems. That idea motivates my work.
 
-That idea stuck with me.
-
-I am particularly interested in work that combines **engineering, computation, and environmental impact** — whether that is improving aircraft efficiency, developing satellite-based environmental monitoring tools, or building models that help organizations make better decisions about complex systems.
+I  interested in work that combines **engineering, computation, and environmental impact** — whether that is improving aircraft efficiency, developing satellite-based environmental monitoring tools, or building models that help organizations make better decisions about complex systems.
 
 My favorite youtube channel to learn more is  
 <a href="https://www.youtube.com/watch?v=D5Eny7VN7To" target="_blank">
