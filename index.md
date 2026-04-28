@@ -52,7 +52,7 @@ Probabilistic modeling, surrogate models, sensitivity analysis, sequential decis
 **Artifacts**
 
 <div style="margin-top: 1rem; margin-bottom: 1.5rem;">
-  <img src="flowchart_contrail" 
+  <img src="flowchart_contrails" 
        alt="Contrail Mitigation Flowchart" 
        style="width:100%; max-width:700px; display:block; margin:auto; border-radius:8px;">
 </div>
