@@ -51,11 +51,7 @@ Probabilistic modeling, surrogate models, sensitivity analysis, sequential decis
 *Key takeaway:* Climate mitigation decisions depend on uncertainty structure and operational feasibility in addition to predicted impact.
 **Artifacts**
 
-<div style="margin-top: 1rem; margin-bottom: 1.5rem;">
-  <img src="flowchart_contrails" 
-       alt="Contrail Mitigation Flowchart" 
-       style="width:100%; max-width:700px; display:block; margin:auto; border-radius:8px;">
-</div>
+![Contrail Mitigation Flowchart](flowchart_contrails.png)
 
 <p style="text-align:center; margin-bottom:1.5rem;">
   <a href="contrails" target="_blank">
