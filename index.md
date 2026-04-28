@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 
 *Modeling, simulation, and AI for aerospace, environmental, and climate-relevant systems*
 
-I am an M.S. student in Aerospace Engineering at Georgia Tech working at the intersection of **modeling, simulation, and machine learning for complex aerospace and environmental systems**.
+I am interested working at the intersection of **modeling, simulation, and machine learning for complex aerospace and environmental systems**.
 
 My work focuses on building **computational models, algorithms, and analysis tools** that help engineers understand system behavior and make decisions under uncertainty. I am  interested in applications involving **space systems, remote sensing, environmental monitoring, and sustainable aviation**.
 
@@ -49,6 +49,19 @@ Probabilistic modeling, surrogate models, sensitivity analysis, sequential decis
 - Framed contrail mitigation as an operational decision problem constrained by feasibility and uncertainty  
 
 *Key takeaway:* Climate mitigation decisions depend on uncertainty structure and operational feasibility in addition to predicted impact.
+**Artifacts**
+
+<div style="margin-top: 1rem; margin-bottom: 1.5rem;">
+  <img src="flowchart_contrail" 
+       alt="Contrail Mitigation Flowchart" 
+       style="width:100%; max-width:700px; display:block; margin:auto; border-radius:8px;">
+</div>
+
+<p style="text-align:center; margin-bottom:1.5rem;">
+  <a href="contrails" target="_blank">
+    View Full Presentation (PDF)
+  </a>
+</p>
 
 ---
 
@@ -174,7 +187,7 @@ Understanding Climate with Professor Monks
 ---
 
 ## Resume
-<a href="chawla_anika_emily_resume.pdf" target="_blank">View Resume</a> :contentReference[oaicite:0]{index=0}
+<a href="chawla_anika_emily__resume.pdf" target="_blank">View Resume</a> :contentReference[oaicite:0]{index=0}
 
 ---
 
