@@ -54,7 +54,7 @@ Probabilistic modeling, surrogate models, sensitivity analysis, sequential decis
 ![Contrail Mitigation Flowchart](flowchart_contrails.png)
 
 <p style="text-align:center; margin-bottom:1.5rem;">
-  <a href="contrails" target="_blank">
+  <a href="contrails.pdf" target="_blank">
     View Full Presentation (PDF)
   </a>
 </p>
