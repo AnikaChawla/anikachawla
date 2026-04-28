@@ -49,7 +49,7 @@ Probabilistic modeling, surrogate models, sensitivity analysis, sequential decis
 - Framed contrail mitigation as an operational decision problem constrained by feasibility and uncertainty  
 
 *Key takeaway:* Climate mitigation decisions depend on uncertainty structure and operational feasibility in addition to predicted impact.
-**Artifacts**
+
 
 ![Contrail Mitigation Flowchart](flowchart_contrails.png)
 
